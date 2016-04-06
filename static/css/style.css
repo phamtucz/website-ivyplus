@@ -17,15 +17,15 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 {
 	* {
-		font-size: 1.4em;
+		font-size: 1.5em;
 	}
 
 	li {
-		font-size: 1.4em;
+		font-size: 1.5em;
 	}
 
 	.footer {
-		font-size: 1.2em;
+		font-size: 1.3em;
 	}
 
 	.container > .row > .col-half {
@@ -55,15 +55,15 @@ and (max-device-width: 736px)
 { 
 
 	* {
-		font-size: 1.4em;
+		font-size: 1.5em;
 	}
 
 	li {
-		font-size: 1.3em;
+		font-size: 1.5em;
 	}
 
 	.footer {
-		font-size: 1.1em;
+		font-size: 1.3em;
 	}
 
 	.container > .row > .col-half {
@@ -197,7 +197,7 @@ hr.style-two {
 	line-height: 70px;
 	font-family: Lato, Helvetica, sans-serif;
 	font-weight: 700;
-	font-size: 3.5em;
+	font-size: 4.0em;
 	color: #FFFFFF;
 }
 
@@ -320,7 +320,7 @@ hr.style-two {
 .col-half .slide legend {
 	font-style: italic;
 	font-weight: bold;
-	font-size: 1.3em;
+	font-size: 1.5em;
 	color: #FD7B1D;
 	margin-bottom: 2em;
 }
