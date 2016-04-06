@@ -3,7 +3,7 @@
 
 * {
 	border: 3px;
-	padding: 3px;
+	padding: 5px;
 	font-family: Lora, serif;
 	box-sizing: border-box;
 	-moz-text-size-adjust: auto;
@@ -17,15 +17,15 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 {
 	* {
-		font-size: 1.3em;
+		font-size: 1.4em;
 	}
 
 	li {
-		font-size: 1.3em;
+		font-size: 1.4em;
 	}
 
 	.footer {
-		font-size: 1.1em;
+		font-size: 1.2em;
 	}
 
 	.container > .row > .col-half {
@@ -55,15 +55,15 @@ and (max-device-width: 736px)
 { 
 
 	* {
-		font-size: 1.3em;
+		font-size: 1.4em;
 	}
 
 	li {
-		font-size: 1.2em;
+		font-size: 1.3em;
 	}
 
 	.footer {
-		font-size: 1.0em;
+		font-size: 1.1em;
 	}
 
 	.container > .row > .col-half {
@@ -89,7 +89,7 @@ and (max-device-width: 736px)
 }
 
 body {
-	margin: 0;
+	margin: 1;
 	color: #111111;
 }
 
@@ -197,7 +197,7 @@ hr.style-two {
 	line-height: 70px;
 	font-family: Lato, Helvetica, sans-serif;
 	font-weight: 700;
-	font-size: 3em;
+	font-size: 3.5em;
 	color: #FFFFFF;
 }
 
