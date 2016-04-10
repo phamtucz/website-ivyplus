@@ -17,15 +17,15 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 {
 	* {
-		font-size: 2.0em;
+		font-size: 2.2em;
 	}
 
 	li {
-		font-size: 2.0em;
+		font-size: 2.2em;
 	}
 
 	.footer {
-		font-size: 1.8em;
+		font-size: 2.0em;
 	}
 
 	.container > .row > .col-half {
@@ -55,15 +55,15 @@ and (max-device-width: 736px)
 { 
 
 	* {
-		font-size: 2.0em;
+		font-size: 2.2em;
 	}
 
 	li {
-		font-size: 2.0em;
+		font-size: 2.2em;
 	}
 
 	.footer {
-		font-size: 1.8em;
+		font-size: 2.0em;
 	}
 
 	.container > .row > .col-half {
